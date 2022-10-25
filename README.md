@@ -1,3 +1,5 @@
+![Miclemattiol GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miclemattiol&show_icons=true)
+
 ### Hi there, I'm Michael - aka Miclemattiol
 - 📚 Student at unitn
 - 🌐 Web developer
@@ -26,4 +28,3 @@
 [instagram]: https://instagram.com/Miclemattiol
 <br>
 <br>
-![Miclemattiol GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miclemattiol&show_icons=true)
